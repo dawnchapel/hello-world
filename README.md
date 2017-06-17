@@ -1,2 +1,2 @@
 # hello-world
-Learning to use github, this is my hello world repo!
+I have edited the hello world readme document, per the instructions in the hello world tutorial.
